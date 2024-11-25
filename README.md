@@ -1,6 +1,6 @@
 # House Price Prediction Using Machine Learning
 
-(Image)
+![Alt Text](pictures/wkw4_uxcu_210127.jpg)
 
 ## Background 
 Determining a competitive house price is a challenge for sellers and real estate agents because house prices are influenced by various factors such as size, location, facilities, and market conditions.
