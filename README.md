@@ -71,6 +71,7 @@ The distribution of house prices across various features does not seem to show s
 
 #### 1.3.2 House Price Trend by Year Built
 ![Alt Text](pictures/output_22_0.png)
+
 House prices seem to fluctuate each year.
 
 ### 1.4 Multivariate Analysis
